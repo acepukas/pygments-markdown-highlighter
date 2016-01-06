@@ -69,6 +69,7 @@ if (!class_exists("PygmentsMarkdownHighlighter")) {
       // Setup styles
       $this->styles = array(
         'colorful' => 'Colorful',
+        'zenburn'  => 'Zenburn',
         'default'  => 'Default',
         'emacs'    => 'Emacs',
         'friendly' => 'Friendly',
